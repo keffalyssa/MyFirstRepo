@@ -1,0 +1,5 @@
+Brief Introduction About Myself
+
+Hello! My name is keza teta keffa lyssa and I am currently learning software development and version control systems. I have a passion for technology and problem-solving, which has led me to pursue skills in programming and collaborative development tools like Git and GitHub.
+
+I am excited to be part of the developer community and look forward to contributing to open-source projects. My goal is to build practical skills that will help me in my career while also learning best practices for code management and team collaboration. This introduction file represents my first step into the world of version control and repository management.
