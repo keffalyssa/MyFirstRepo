@@ -1,3 +1,2 @@
-Reflection on Git and GitHub Learning Experience
-
-In this assignment, I learned how to create and manage a GitHub repository, including making commits with clear messages and adding new files to track changes. I also understood the importance of version control in collaborative environments. Creating the learning.txt file helped me practice using the terminal and Git commands such as git add, git commit, and git push. This hands-on experience gave me more confidence in navigating GitHub and managing code changes effectively.
+["What I have learned from this course"]
+I have learned how to use GitHub to manage my projects and collaborate with others. I now understand the basics of version control, making commits, and creating repositories.
